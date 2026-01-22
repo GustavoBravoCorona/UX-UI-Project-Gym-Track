@@ -6,4 +6,4 @@ Gym Track is a UX/UI project that I created where it allows gym-goers to interac
 
 https://xd.adobe.com/view/06e860c8-93a0-4be5-8748-6a7c503a73c9-53bb/
 
-<img width="431" height="932" alt="Screenshot 2026-01-21 at 7 19 22 PM" src="https://github.com/user-attachments/assets/e8ccb629-d30f-4e49-93af-fc6c685f29d5" />
+<img width="431" height="932" alt="Screenshot 2026-01-21 at 7 20 38 PM" src="https://github.com/user-attachments/assets/314ccd20-f711-4632-8b66-313b1d14cc82" />
